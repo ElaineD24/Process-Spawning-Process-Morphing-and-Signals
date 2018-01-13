@@ -1,0 +1,5 @@
+singlePrime: singlePrime.c
+	gcc -o singlePrime singlePrime.c
+
+clean:
+	rm -f singlePrime

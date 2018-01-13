@@ -1,0 +1,5 @@
+singleSpawn: singleSpawn.c
+	gcc -o singleSpawn singleSpawn.c
+
+clean:
+	rm -f singleSpawn

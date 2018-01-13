@@ -1,0 +1,8 @@
+multiSpawnSignal: multiSpawnSignal.c isPrime
+	gcc -o multiSpawnSignal multiSpawnSignal.c
+
+isPrime: isPrime.c
+	gcc -o isPrime isPrime.c
+
+clean:
+	rm -f multiSpawnSignal isPrime
