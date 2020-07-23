@@ -4,7 +4,7 @@ Assignment 5  12/08/2017
 STUDENT INFORMATIONS
 -------------------
 NAME : Elaine Deng
-STUDENT ID : 101045610
+
 
 PROGRAM PURPOSE
 ---------------
